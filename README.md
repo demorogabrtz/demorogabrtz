@@ -34,11 +34,11 @@ Auto-updated by GitHub Actions and WakaTime.
 <!--START_SECTION:waka-->
 
 ```txt
-C#              11 hrs 42 mins        ████████████████████▓░░░░   82.48 %
-GLSL            1 hr 2 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
-Other           29 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
-JavaScript      16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-Text            14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+C#              11 hrs 39 mins        █████████████████████▒░░░   85.37 %
+GLSL            1 hr 2 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
+Other           29 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
+Markdown        10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+Unity3D Asset   10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 ```
 
 <!--END_SECTION:waka-->
