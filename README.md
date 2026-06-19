@@ -34,8 +34,7 @@ Auto-updated by GitHub Actions and WakaTime.
 <!--START_SECTION:waka-->
 
 ```txt
-Other   4 mins                █████████████████░░░░░░░░   68.59 %
-JSON    2 mins                ████████░░░░░░░░░░░░░░░░░   31.41 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
