@@ -34,8 +34,7 @@ Auto-updated by GitHub Actions and WakaTime.
 <!--START_SECTION:waka-->
 
 ```txt
-C#              3 mins                ██████████████████████▓░░   90.38 %
-Unity3D Asset   0 secs                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
