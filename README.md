@@ -34,8 +34,8 @@ Auto-updated by GitHub Actions and WakaTime.
 <!--START_SECTION:waka-->
 
 ```txt
-Liquid        1 hr 44 mins          █████████████████████▒░░░   85.10 %
-JSON          18 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.88 %
+Liquid        1 hr 44 mins          █████████████████████▒░░░   85.51 %
+JSON          17 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.48 %
 Image (png)   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 CSS           0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
